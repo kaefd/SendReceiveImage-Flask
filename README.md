@@ -9,7 +9,7 @@ Working directory : /home/server/mysite <br>
 - create token API
 <br>
 Then, we try to make a simple test using client.py  <br>
-run it via terminal, but the code <em>won't display anythng on browser</em> <br>
+run it via terminal/console, but the code <em>won't display anythng on browser</em> <br>
 <br>
 here is output :  <br>
 <br>
